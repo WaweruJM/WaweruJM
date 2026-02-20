@@ -1,6 +1,6 @@
 # James Waweru
 
-[Patient-Centric Medical Research](https://wawerujm.github.io/Patient-Centric-Medical-Research.html)
+[Patient-Centric Medical Research](https://wawerujm.github.io/Patient-Centric-Medical-Research-/)
 
 Statistical analysis with R and python platforms.
 
