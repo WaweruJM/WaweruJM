@@ -1,6 +1,6 @@
 # James Waweru
 
-Statistics in Healthcare and related fields.
+[Patient-Centric Medical Research](https://wawerujm.github.io/Patient-Centric-Medical-Research.html)
 
 Statistical analysis with R and python platforms.
 
