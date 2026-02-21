@@ -2,7 +2,7 @@
 
 [Patient-Centric Medical Research](https://wawerujm.github.io/Patient-Centric-Medical-Research-/)
 
-[Replicable Research Methodologies]()
+[Replicable Research Methodologies](https://wawerujm.github.io/Replicable-Research-Methodology/)
 
 Collaborative in practice changing research.
 
