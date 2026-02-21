@@ -2,9 +2,7 @@
 
 [Patient-Centric Medical Research](https://wawerujm.github.io/Patient-Centric-Medical-Research-/)
 
-Statistical analysis with R and python platforms.
-
-Focused on reproducible research methodologies.
+[Replicable Research Methodologies]()
 
 Collaborative in practice changing research.
 
