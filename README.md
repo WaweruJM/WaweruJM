@@ -1,5 +1,7 @@
 # James Waweru
 
+[Interactive Simulator for Hypothesis Testing](https://wawerujm.github.io/Interactive-Simulator-for-Hypothesis-Testing/)
+
 [Statistical Tables](https://wawerujm.github.io/statistical_tables/)
 
 [Research And Data Analysis Tool](https://data-radar-app.streamlit.app/)
